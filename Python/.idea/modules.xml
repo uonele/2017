@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Python.iml" filepath="$PROJECT_DIR$/.idea/Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Python/PythonDaily/.idea/PythonDaily.iml" filepath="$PROJECT_DIR$/../../Python/PythonDaily/.idea/PythonDaily.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../PythonDaily/.idea/PythonDaily.iml" filepath="$PROJECT_DIR$/../../PythonDaily/.idea/PythonDaily.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Spider_python27/.idea/Spider_python27.iml" filepath="$PROJECT_DIR$/../../Spider_python27/.idea/Spider_python27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Spider_python35/.idea/Spider_python35.iml" filepath="$PROJECT_DIR$/../../Spider_python35/.idea/Spider_python35.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Django/django/.idea/project01.iml" filepath="$PROJECT_DIR$/../../Django/django/.idea/project01.iml" />
+    </modules>
+  </component>
+</project>

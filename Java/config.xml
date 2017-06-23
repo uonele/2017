@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<config>
+    <className>CreationPattern.FactoryMethod.JpgReadFactory</className>
+    <brandName>R</brandName>
+    <produce>CreationPattern.AbstractFactory.PCFactory</produce>
+    <build>CreationPattern.Builder.DesktopBuild</build>
+    <adapter>StructuredPattern.Adapter_Class.CreateCat</adapter>
+    <bridge>StructuredPattern.Bridge.AirCondition</bridge>
+    <function>BehavioralPattern.Command.Exit_System</function>
+    <cipher>BehavioralPattern.Strategy.MD5Cipher</cipher>
+</config>
